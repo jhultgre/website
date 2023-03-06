@@ -1,6 +1,7 @@
 ---
 title: Mayapy tips
 layout: post
+permalink: blog/mayapy-tips
 ---
 I've  been  working at 2K as a technical artist for the last 4 months and I have been using mayapy a lot so I thought I'd list a few tips that have saved me a lot of time or were tricky to figure out.
 

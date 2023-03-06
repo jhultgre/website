@@ -1,6 +1,7 @@
 ---
 title: 5e Starter Set Maps
 layout: post
+permalink: blog/5e-starter-set-maps
 ---
 I drew some custom maps based off the maps in the 5e starter set.  The Thunder Tree map comes with roofs to be used as tokens on top of it and versions with and without webs.
 
