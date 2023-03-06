@@ -1,6 +1,7 @@
 ---
 title: Speeding up Rigging Code
-date: 2017-09-13
+layout: post
+permalink: blog/speeding-up-rigging-code
 ---
 
 So our game NBA 2K18 comes out Friday  so the art team has been pretty  relaxed for the past couple of weeks. With this down time I've finally had a moment to handle our largest complaint from the character team, Speed.
@@ -31,5 +32,5 @@ Finally I slimmed down some of the partial rigs we use to generate things, savin
 
 In the end I ended up saving 30 second with my best test time of 66 seconds. I was hoping to get under a minute, but I hit a brick wall there and I was ready to move onto speeding up our tools which I will talk a little bit about  later.
 
-##Final thoughts:
+## Final thoughts:
 Most of  our rigging code goes back at least 4 years and when you are releasing a yearly game a lot of things get added and removed from it  every time, leaving a lot of cruf sitting around.  I think every time I tried to answer a "TODO: why are we doing things this way" I speed things up a little bit, or at least I could provide an actual answer to the question.
