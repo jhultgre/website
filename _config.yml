@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: poole/hyde
 title: Joe Hultgren - Technical Artist
 author: Joe Hultgren
 descrition: learning to port my site to github pages
